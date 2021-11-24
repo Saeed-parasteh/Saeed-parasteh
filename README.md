@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saeed-parasteh
 - 👀 I’m interested in ASP.net & c# programming
 - 🌱 I’m currently learning ASP.net
-- 💞️ I’m cooperating with expert ASP.net & C# team  
+- 💞️ I’m cooperating with expert Asp.net & C# team  
 - 📫 
 
 <!---
